@@ -2,4 +2,4 @@
 
 Showing Case how early stage dashboard was put together.
 
-Add details..
+This script is no longer in use technology portfolio.
